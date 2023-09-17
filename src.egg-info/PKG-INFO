@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Author: shivangi
+Author-email: shivangisingh0103@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
